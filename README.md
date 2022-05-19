@@ -11,49 +11,40 @@
 
 
 
-- 👋 Hi, I’m Saif Al-Jilani
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React js
-- 💞️ I’m looking to collaborate on I'm looking to collaborate on {web stuff {Web development,
-                                                                             Building real-life projects,  
-                                                                             APIs, 
-                                                                             Coding Challenges to level up our skills, 
-                                                                             Building our learning environments to be
-                                                                             the Ambassadors of IT in our communitys} 
-- 📫 How to reach me ...
-My instagram : saif.aljilani
-
+- 👋 Hi, I’m Moath Al-Manasrah
+- 👀 I’m interested in Mobile Development
 <hr>
 
 ### :hammer_and_wrench: Languages and Tools :
 
 
 <div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <br>
-  <br>
-  <img  src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" title="Netilfy" style="border-width: 1px;" width="40" height="40">&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg"  title="npm" alt="npm" width="40" height="40"/>&nbsp;
-  <br>
-  <br>
-   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"  title="AdobeXD" alt="AdobeXD" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg"  title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://seeklogo.com/images/D/dart-logo-FDA1939EC4-seeklogo.com.png"  title="Dart" alt="Dart" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <br><br> 
+  
+   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://www.svgrepo.com/show/88703/api.svg" title="API" alt="API" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="JAVA" alt="JAVA" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"  title="AdobeXD" alt="AdobeXD" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <br><br> 
+  <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg"  title="Figma" alt="Figma" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   
 
 </div>
 
 <hr/>
 
+
+### :hammer_and_wrench: OS :
+ <img src="https://seeklogo.com/images/A/apple-logo-E3DBF3AE34-seeklogo.com.png" title="OS" alt="OS" width="45" height="45"/>&nbsp;
+   <img src="https://cdn.worldvectorlogo.com/logos/microsoft-5.svg"  title="microsoft" alt="microsoft" width="40" height="40"/>&nbsp;
+
+
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sipher69&theme=react&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MoathAlmanasrah&theme=nord&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 

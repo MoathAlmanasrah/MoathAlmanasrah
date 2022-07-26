@@ -1,3 +1,7 @@
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Mobile+Developer.;I'm+a+Software+Engineer." /></a>
+</p>
+
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif?cid=ecf05e47zyie1ewjll81b9g001lt86u6mudw7azs9oyi4p91&rid=giphy.gif&ct=g" width="400"/>
   

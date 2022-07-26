@@ -13,9 +13,10 @@
 
 - 👋 Hi, I’m Moath Al-Manasrah
 - 👀 I’m interested in Mobile Development
-<hr>
-## Watch my contributions get eaten by a snake 🐍
+- ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
+<hr>
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>

@@ -15,8 +15,7 @@
 - 👀 I’m interested in Mobile Development
 - ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+ 
 <hr>
 
 ### :hammer_and_wrench: Languages and Tools :

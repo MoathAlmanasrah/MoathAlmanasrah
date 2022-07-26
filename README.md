@@ -2,7 +2,7 @@
   <img src="https://media2.giphy.com/media/bJ4TVNYNUympPgcpem/giphy.gif?cid=ecf05e47zyie1ewjll81b9g001lt86u6mudw7azs9oyi4p91&rid=giphy.gif&ct=g" width="400"/>
   
 </div>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 
 
 
@@ -15,6 +15,8 @@
 - 👀 I’m interested in Mobile Development
 - ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 <hr>
 
 ### :hammer_and_wrench: Languages and Tools :

@@ -17,8 +17,6 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
 
 <div>
    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -43,7 +41,9 @@
 ### :hammer_and_wrench: OS :
  <img src="https://seeklogo.com/images/A/apple-logo-E3DBF3AE34-seeklogo.com.png" title="OS" alt="OS" width="45" height="45"/>&nbsp;
    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-5.svg"  title="microsoft" alt="microsoft" width="40" height="40"/>&nbsp;
-
+   
+## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MoathAlmanasrah&theme=nord&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
